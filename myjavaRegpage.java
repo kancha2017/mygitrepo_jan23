@@ -1,1 +1,3 @@
-this is my java registration page
+This is my java registration page
+this my manager work completed 
+
